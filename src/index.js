@@ -2,6 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import App from "./App";
 import "./style/reset.css";
+import "./assets/football-attack-cufonfonts-webfont/style.css";
 import "./style/index.css";
 import "./style/App.css";
 
