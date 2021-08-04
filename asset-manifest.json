@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/football-memory-card/static/css/main.76a1cbca.chunk.css",
+    "main.js": "/football-memory-card/static/js/main.1927e3b9.chunk.js",
+    "main.js.map": "/football-memory-card/static/js/main.1927e3b9.chunk.js.map",
+    "runtime-main.js": "/football-memory-card/static/js/runtime-main.87b910d7.js",
+    "runtime-main.js.map": "/football-memory-card/static/js/runtime-main.87b910d7.js.map",
+    "static/js/2.1f2cabbb.chunk.js": "/football-memory-card/static/js/2.1f2cabbb.chunk.js",
+    "static/js/2.1f2cabbb.chunk.js.map": "/football-memory-card/static/js/2.1f2cabbb.chunk.js.map",
+    "static/js/3.b5352d0f.chunk.js": "/football-memory-card/static/js/3.b5352d0f.chunk.js",
+    "static/js/3.b5352d0f.chunk.js.map": "/football-memory-card/static/js/3.b5352d0f.chunk.js.map",
+    "index.html": "/football-memory-card/index.html",
+    "static/css/main.76a1cbca.chunk.css.map": "/football-memory-card/static/css/main.76a1cbca.chunk.css.map",
+    "static/js/2.1f2cabbb.chunk.js.LICENSE.txt": "/football-memory-card/static/js/2.1f2cabbb.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/football-memory-card/static/media/FootballAttack-2OOWX.81b1307e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87b910d7.js",
+    "static/js/2.1f2cabbb.chunk.js",
+    "static/css/main.76a1cbca.chunk.css",
+    "static/js/main.1927e3b9.chunk.js"
+  ]
+}
